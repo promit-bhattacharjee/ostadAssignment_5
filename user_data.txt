@@ -1,0 +1,8 @@
+{"userName":"promit","userEmail":"promit@gmail.com","userPassword":"1234","role":"user"}
+{"userName":"promit","userEmail":"promit@gmail.com","userPassword":"1234","role":"manager"}
+{"userName":"promit","userEmail":"promit@gmail.com","userPassword":"1234","role":"manager"}
+{"userName":"zia","userEmail":"zia@gmail.com","userPassword":"1233","role":"admin"}
+{"userName":"admin","userEmail":"admin@gmail.com","userPassword":"1234","role":"admin"}
+{"userName":"proma","userEmail":"proma@gmail.com","userPassword":"1234","role":"manager"}
+{"userName":"admin","userEmail":"admin@gmail.com","userPassword":"1234","role":"admin"}
+{"userName":"ad","userEmail":"ad@gmail.com","userPassword":"1234","role":"admin"}
